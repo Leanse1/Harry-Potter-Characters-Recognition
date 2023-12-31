@@ -1,0 +1,5 @@
+numpy
+mtcnn
+opencv-python
+matplotlib
+

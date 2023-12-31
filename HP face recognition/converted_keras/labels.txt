@@ -1,0 +1,8 @@
+0 Hermione Granger
+1 Luna Lovegood
+2 Draco Malfoy
+3 Harry Potter
+4 Minerva Mcgonagall
+5 Bellatrix Lestrange
+6 Ginny Weasley
+7 Lord Voldermort
